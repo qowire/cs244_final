@@ -1,0 +1,192 @@
+--------------------------
+File: ./cert_outputs/ipbl.txt      
+Num IPs: 500000              
+Successful handshakes: 352396
+IPs with RSA keys: 338300          
+Num additional RSA keys: 8221       
+That took 74.91913509368896 seconds
+--------------------------   
+File: ./cert_outputs/ipbc.txt      
+Num IPs: 500000              
+Successful handshakes: 353765
+IPs with RSA keys: 339416          
+Num additional RSA keys: 6844       
+That took 80.37505865097046 seconds
+--------------------------   
+File: ./cert_outputs/ipbe.txt      
+Num IPs: 500000              
+Successful handshakes: 354211
+IPs with RSA keys: 339819          
+Num additional RSA keys: 6569      
+That took 83.19001126289368 seconds
+--------------------------   
+File: ./cert_outputs/ipbi.txt      
+Num IPs: 500000              
+Successful handshakes: 353196
+IPs with RSA keys: 338808          
+Num additional RSA keys: 6260       
+That took 83.53642177581787 seconds
+--------------------------   
+File: ./cert_outputs/ipbh.txt      
+Num IPs: 500000              
+Successful handshakes: 353306
+IPs with RSA keys: 338928          
+Num additional RSA keys: 6162       
+That took 84.30412697792053 seconds
+--------------------------   
+File: ./cert_outputs/ipbf.txt      
+Num IPs: 500000              
+Successful handshakes: 353819
+IPs with RSA keys: 339626          
+Num additional RSA keys: 5888       
+That took 84.57141661643982 seconds
+--------------------------   
+File: ./cert_outputs/ipbn.txt      
+Num IPs: 500000           
+Successful handshakes: 353349       
+IPs with RSA keys: 339093         
+Num additional RSA keys: 5782    
+That took 87.20565581321716 seconds
+--------------------------                   
+File: ./cert_outputs/ipbp.txt                           
+Num IPs: 500000                                           
+Successful handshakes: 352261
+IPs with RSA keys: 337910                               
+Num additional RSA keys: 5615                             
+That took 85.9231116771698 seconds
+--------------------------                                  
+File: ./cert_outputs/ipbb.txt                 
+Num IPs: 500000                                                      
+Successful handshakes: 353267                                           
+IPs with RSA keys: 339082                     
+Num additional RSA keys: 5655                                        
+That took 88.83108329772949 seconds                                     
+--------------------------                 
+File: ./cert_outputs/ipba.txt
+Num IPs: 500000
+Successful handshakes: 352964
+IPs with RSA keys: 338687
+Num additional RSA keys: 5487
+That took 93.20113039016724 seconds
+--------------------------         
+File: ./cert_outputs/ipbo.txt       
+Num IPs: 500000                    
+Successful handshakes: 352321
+IPs with RSA keys: 338172          
+Num additional RSA keys: 5453
+That took 88.92700672149658 seconds
+--------------------------         
+File: ./cert_outputs/ipbz.txt       
+Num IPs: 500000                    
+Successful handshakes: 352938
+IPs with RSA keys: 338646          
+Num additional RSA keys: 5330
+That took 91.74563956260681 seconds
+--------------------------         
+File: ./cert_outputs/ipbg.txt      
+Num IPs: 500000                    
+Successful handshakes: 353777
+IPs with RSA keys: 339393          
+Num additional RSA keys: 5301
+That took 92.74901819229126 seconds
+--------------------------         
+File: ./cert_outputs/ipbu.txt       
+Num IPs: 500000                    
+Successful handshakes: 353174
+IPs with RSA keys: 338967          
+Num additional RSA keys: 5454
+That took 94.58678865432739 seconds
+--------------------------         
+File: ./cert_outputs/ipbs.txt       
+Num IPs: 500000                    
+Successful handshakes: 353443
+IPs with RSA keys: 339011          
+Num additional RSA keys: 5149
+That took 98.17533826828003 seconds
+--------------------------         
+File: ./cert_outputs/ipbm.txt       
+Num IPs: 500000                    
+Successful handshakes: 351664
+IPs with RSA keys: 337290          
+Num additional RSA keys: 4977
+That took 96.63228249549866 seconds 
+--------------------------        
+File: ./cert_outputs/ipbd.txt    
+Num IPs: 500000                    
+Successful handshakes: 354232                
+IPs with RSA keys: 339916                               
+Num additional RSA keys: 4916                             
+That took 99.12052726745605 seconds
+--------------------------                              
+File: ./cert_outputs/ipbq.txt                             
+Num IPs: 500000                   
+Successful handshakes: 352236                               
+IPs with RSA keys: 338118                     
+Num additional RSA keys: 5150                                        
+That took 107.27244806289673 seconds                                    
+--------------------------                    
+File: ./cert_outputs/ipbk.txt                                        
+Num IPs: 500000                                                         
+Successful handshakes: 352731              
+IPs with RSA keys: 338291    
+Num additional RSA keys: 4921
+That took 104.16662192344666 seconds
+--------------------------
+--------------------------         
+File: ./cert_outputs/ipbv.txt
+Num IPs: 500000                    
+Successful handshakes: 354330      
+IPs with RSA keys: 339702           
+Num additional RSA keys: 4898      
+That took 108.3084282875061 seconds
+--------------------------         
+File: ./cert_outputs/ipbr.txt
+Num IPs: 500000                    
+Successful handshakes: 353017      
+IPs with RSA keys: 338381           
+Num additional RSA keys: 5039      
+That took 107.74709987640381 seconds
+--------------------------         
+File: ./cert_outputs/ipbj.txt
+Num IPs: 500000                    
+Successful handshakes: 352644      
+IPs with RSA keys: 338146          
+Num additional RSA keys: 4982      
+That took 105.08686971664429 seconds
+--------------------------         
+File: ./cert_outputs/ipbw.txt
+Num IPs: 500000                    
+Successful handshakes: 352987      
+IPs with RSA keys: 338782           
+Num additional RSA keys: 4840      
+That took 112.8968448638916 seconds
+--------------------------         
+File: ./cert_outputs/ipbx.txt
+Num IPs: 500000                    
+Successful handshakes: 352590      
+IPs with RSA keys: 338297           
+Num additional RSA keys: 4825      
+That took 107.86472225189209 seconds
+--------------------------         
+File: ./cert_outputs/ipby.txt
+Num IPs: 500000                    
+Successful handshakes: 352264      
+IPs with RSA keys: 337963           
+Num additional RSA keys: 4757      
+That took 116.18469977378845 seconds
+--------------------------         
+File: ./cert_outputs/ipbt.txt
+Num IPs: 500000                     
+Successful handshakes: 352961     
+IPs with RSA keys: 338791        
+Num additional RSA keys: 4879      
+That took 114.55586838722229 seconds         
+###############################                         
+Total IPs: 13000000                                       
+Algorithms:                        
+{'RSA', 'ECDSA'}                                        
+Total successful handshakes: 9179843                      
+Total IPs with RSA keys: 8807535  
+Total additional RSA keys: 143354                           
+17877240                                      
+defaultdict(<class 'int'>, {'ECDSA': 372308})                        

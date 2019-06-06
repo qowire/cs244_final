@@ -1,0 +1,191 @@
+--------------------------
+File: ./cert_outputs/ipax.txt
+Num IPs: 500000
+Successful handshakes: 352348
+IPs with RSA keys: 338283
+Num additional RSA keys: 8126
+That took 72.09688091278076 seconds
+--------------------------
+File: ./cert_outputs/ipag.txt
+Num IPs: 500000
+Successful handshakes: 351734
+IPs with RSA keys: 337557
+Num additional RSA keys: 6596
+That took 74.49477171897888 seconds
+--------------------------
+File: ./cert_outputs/ipae.txt
+Num IPs: 500000
+Successful handshakes: 351866
+IPs with RSA keys: 337705
+Num additional RSA keys: 6482
+That took 77.37652969360352 seconds
+--------------------------
+File: ./cert_outputs/ipam.txt
+Num IPs: 500000
+Successful handshakes: 353064
+IPs with RSA keys: 338648
+Num additional RSA keys: 6217
+That took 81.20241975784302 seconds
+--------------------------
+File: ./cert_outputs/ipaa.txt
+Num IPs: 500000
+Successful handshakes: 352041
+IPs with RSA keys: 337900
+Num additional RSA keys: 5994
+That took 78.31512069702148 seconds
+--------------------------
+File: ./cert_outputs/ipar.txt
+Num IPs: 500000
+Successful handshakes: 353895
+IPs with RSA keys: 339748
+Num additional RSA keys: 5992
+That took 80.3112211227417 seconds
+--------------------------
+File: ./cert_outputs/ipaz.txt
+Num IPs: 500000
+Successful handshakes: 352781
+IPs with RSA keys: 338481
+Num additional RSA keys: 5675
+That took 81.78138256072998 seconds
+--------------------------
+File: ./cert_outputs/ipal.txt
+Num IPs: 500000
+Successful handshakes: 353075
+IPs with RSA keys: 338851
+Num additional RSA keys: 5835
+That took 81.69098234176636 seconds
+--------------------------
+File: ./cert_outputs/ipaw.txt
+Num IPs: 500000
+Successful handshakes: 353037
+IPs with RSA keys: 338910
+Num additional RSA keys: 5692
+That took 84.34198641777039 seconds
+--------------------------
+File: ./cert_outputs/ipah.txt
+Num IPs: 500000
+Successful handshakes: 351556
+IPs with RSA keys: 337257
+Num additional RSA keys: 5653
+That took 90.34628200531006 seconds
+--------------------------
+File: ./cert_outputs/ipac.txt
+Num IPs: 500000
+Successful handshakes: 350731
+IPs with RSA keys: 336764
+Num additional RSA keys: 5457
+That took 85.12045884132385 seconds
+--------------------------
+File: ./cert_outputs/ipaj.txt
+Num IPs: 500000
+Successful handshakes: 353505
+IPs with RSA keys: 339181
+Num additional RSA keys: 5327
+That took 87.52272820472717 seconds
+--------------------------
+File: ./cert_outputs/ipap.txt
+Num IPs: 500000
+Successful handshakes: 353229
+IPs with RSA keys: 339090
+Num additional RSA keys: 5386
+That took 91.05007028579712 seconds
+--------------------------
+File: ./cert_outputs/ipai.txt
+Num IPs: 500000
+Successful handshakes: 351278
+IPs with RSA keys: 337110
+Num additional RSA keys: 5213
+That took 88.66428017616272 seconds
+--------------------------
+File: ./cert_outputs/ipao.txt
+Num IPs: 500000
+Successful handshakes: 353395
+IPs with RSA keys: 339031
+Num additional RSA keys: 5193
+That took 94.67843174934387 seconds
+--------------------------
+File: ./cert_outputs/ipak.txt
+Num IPs: 500000
+Successful handshakes: 353372
+IPs with RSA keys: 338929
+Num additional RSA keys: 5134
+That took 93.57707333564758 seconds
+--------------------------
+File: ./cert_outputs/ipaq.txt
+Num IPs: 500000
+Successful handshakes: 354009
+IPs with RSA keys: 339722
+Num additional RSA keys: 5102
+That took 95.30956029891968 seconds
+--------------------------
+File: ./cert_outputs/ipab.txt
+Num IPs: 500000
+Successful handshakes: 351438
+IPs with RSA keys: 337237
+Num additional RSA keys: 4910
+That took 100.46044445037842 seconds
+--------------------------
+File: ./cert_outputs/ipas.txt
+Num IPs: 500000
+Successful handshakes: 352591
+IPs with RSA keys: 338330
+Num additional RSA keys: 5031
+That took 98.88220596313477 seconds
+--------------------------
+File: ./cert_outputs/ipav.txt
+Num IPs: 500000
+Successful handshakes: 354070
+IPs with RSA keys: 339922
+Num additional RSA keys: 5000
+That took 103.37973475456238 seconds
+--------------------------
+File: ./cert_outputs/ipaf.txt
+Num IPs: 500000
+Successful handshakes: 351793
+IPs with RSA keys: 337597
+Num additional RSA keys: 4890
+That took 100.89415431022644 seconds
+--------------------------
+File: ./cert_outputs/ipad.txt
+Num IPs: 500000
+Successful handshakes: 352175
+IPs with RSA keys: 338033
+Num additional RSA keys: 4958
+That took 102.32422661781311 seconds
+--------------------------
+File: ./cert_outputs/ipat.txt
+Num IPs: 500000
+Successful handshakes: 352831
+IPs with RSA keys: 338483
+Num additional RSA keys: 4854
+That took 106.43703365325928 seconds
+--------------------------
+File: ./cert_outputs/ipan.txt
+Num IPs: 500000
+Successful handshakes: 353166
+IPs with RSA keys: 338888
+Num additional RSA keys: 4867
+That took 102.38836336135864 seconds
+--------------------------
+File: ./cert_outputs/ipay.txt
+Num IPs: 500000
+Successful handshakes: 351631
+IPs with RSA keys: 337327
+Num additional RSA keys: 4931
+That took 107.6455979347229 seconds
+--------------------------
+File: ./cert_outputs/ipau.txt
+Num IPs: 500000
+Successful handshakes: 353137
+IPs with RSA keys: 338952
+Num additional RSA keys: 4874
+That took 107.94672846794128 seconds
+###############################
+Total IPs: 13000000
+Algorithms:
+{'ECDSA', 'RSA'}
+Total successful handshakes: 9167748
+Total IPs with RSA keys: 8797936
+Total additional RSA keys: 143389
+17858773
+defaultdict(<class 'int'>, {'ECDSA': 369812})

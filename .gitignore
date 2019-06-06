@@ -1,0 +1,14 @@
+data/cert_keys/*
+!data/cert_keys/sample_cert_keys.csv
+data/chain_keys/*
+!data/chain_keys/sample_chain_keys.csv
+data/fastgcd_output/*
+!data/fastgcd_output/sample_gcds
+!data/fastgcd_output/sample_vulnerable_moduli
+data/handshakes/*
+!data/handshakes/sample_handshake.txt
+data/moduli/*
+!data/moduli/sample_moduli
+data/vulnerable_ips/*
+!data/vulnerable_ips/sample_vulnerable_ip.txt
+.DS_Store

@@ -1,0 +1,191 @@
+--------------------------
+File: ./cert_outputs/ipcj.txt
+Num IPs: 500000
+Successful handshakes: 352969
+IPs with RSA keys: 338428
+Num additional RSA keys: 8278
+That took 79.4164867401123 seconds
+--------------------------
+File: ./cert_outputs/ipcf.txt
+Num IPs: 500000
+Successful handshakes: 351629
+IPs with RSA keys: 337300
+Num additional RSA keys: 6735
+That took 77.16199731826782 seconds
+--------------------------
+File: ./cert_outputs/ipcd.txt
+Num IPs: 500000
+Successful handshakes: 352763
+IPs with RSA keys: 338681
+Num additional RSA keys: 6628
+That took 79.7824113368988 seconds
+--------------------------
+File: ./cert_outputs/ipcr.txt
+Num IPs: 500000
+Successful handshakes: 353697
+IPs with RSA keys: 339310
+Num additional RSA keys: 6281
+That took 77.91500997543335 seconds
+--------------------------
+File: ./cert_outputs/ipck.txt
+Num IPs: 500000
+Successful handshakes: 353063
+IPs with RSA keys: 338731
+Num additional RSA keys: 5904
+That took 81.26768779754639 seconds
+--------------------------
+File: ./cert_outputs/ipcn.txt
+Num IPs: 500000
+Successful handshakes: 353531
+IPs with RSA keys: 339182
+Num additional RSA keys: 6046
+That took 81.44986844062805 seconds
+--------------------------
+File: ./cert_outputs/ipcu.txt
+Num IPs: 500000
+Successful handshakes: 354726
+IPs with RSA keys: 340455
+Num additional RSA keys: 5938
+That took 82.25645542144775 seconds
+--------------------------
+File: ./cert_outputs/ipcc.txt
+Num IPs: 500000
+Successful handshakes: 353400
+IPs with RSA keys: 339149
+Num additional RSA keys: 5679
+That took 85.46506214141846 seconds
+--------------------------
+File: ./cert_outputs/ipcy.txt
+Num IPs: 500000
+Successful handshakes: 354101
+IPs with RSA keys: 339684
+Num additional RSA keys: 5659
+That took 86.405020236969 seconds
+--------------------------
+File: ./cert_outputs/ipcz.txt
+Num IPs: 500000
+Successful handshakes: 353706
+IPs with RSA keys: 339526
+Num additional RSA keys: 5485
+That took 87.63350796699524 seconds
+--------------------------
+File: ./cert_outputs/ipcv.txt
+Num IPs: 500000
+Successful handshakes: 355659
+IPs with RSA keys: 341221
+Num additional RSA keys: 5530
+That took 88.71761059761047 seconds
+--------------------------
+File: ./cert_outputs/ipcl.txt
+Num IPs: 500000
+Successful handshakes: 353449
+IPs with RSA keys: 339152
+Num additional RSA keys: 5332
+That took 88.4344232082367 seconds
+--------------------------
+File: ./cert_outputs/ipca.txt
+Num IPs: 500000
+Successful handshakes: 353568
+IPs with RSA keys: 339213
+Num additional RSA keys: 5257
+That took 90.41765546798706 seconds
+--------------------------
+File: ./cert_outputs/ipcs.txt
+Num IPs: 500000
+Successful handshakes: 353480
+IPs with RSA keys: 338987
+Num additional RSA keys: 5281
+That took 91.3447093963623 seconds
+--------------------------
+File: ./cert_outputs/ipcg.txt
+Num IPs: 500000
+Successful handshakes: 352499
+IPs with RSA keys: 338288
+Num additional RSA keys: 5277
+That took 95.70859122276306 seconds
+--------------------------
+File: ./cert_outputs/ipch.txt
+Num IPs: 500000
+Successful handshakes: 353142
+IPs with RSA keys: 338871
+Num additional RSA keys: 5236
+That took 94.6500141620636 seconds
+--------------------------
+File: ./cert_outputs/ipce.txt
+Num IPs: 500000
+Successful handshakes: 351918
+IPs with RSA keys: 337777
+Num additional RSA keys: 5016
+That took 96.72744750976562 seconds
+--------------------------
+File: ./cert_outputs/ipci.txt
+Num IPs: 500000
+Successful handshakes: 351743
+IPs with RSA keys: 337398
+Num additional RSA keys: 5138
+That took 103.99016952514648 seconds
+--------------------------
+File: ./cert_outputs/ipcq.txt
+Num IPs: 500000
+Successful handshakes: 353280
+IPs with RSA keys: 339094
+Num additional RSA keys: 5088
+That took 100.29464101791382 seconds
+--------------------------
+File: ./cert_outputs/ipcx.txt
+Num IPs: 500000
+Successful handshakes: 355072
+IPs with RSA keys: 340790
+Num additional RSA keys: 4933
+That took 100.74415135383606 seconds
+--------------------------
+File: ./cert_outputs/ipcp.txt
+Num IPs: 500000
+Successful handshakes: 352306
+IPs with RSA keys: 338044
+Num additional RSA keys: 4761
+That took 106.33874607086182 seconds
+--------------------------
+File: ./cert_outputs/ipco.txt
+Num IPs: 500000
+Successful handshakes: 353525
+IPs with RSA keys: 339186
+Num additional RSA keys: 4769
+That took 103.0466423034668 seconds
+--------------------------
+File: ./cert_outputs/ipcm.txt
+Num IPs: 500000
+Successful handshakes: 353400
+IPs with RSA keys: 338894
+Num additional RSA keys: 4818
+That took 107.94871139526367 seconds
+--------------------------
+File: ./cert_outputs/ipcw.txt
+Num IPs: 500000
+Successful handshakes: 355604
+IPs with RSA keys: 341092
+Num additional RSA keys: 4894
+That took 102.98300433158875 seconds
+--------------------------
+File: ./cert_outputs/ipct.txt
+Num IPs: 500000
+Successful handshakes: 354743
+IPs with RSA keys: 340458
+Num additional RSA keys: 4675
+That took 106.15166902542114 seconds
+--------------------------
+File: ./cert_outputs/ipcb.txt
+Num IPs: 500000
+Successful handshakes: 353256
+IPs with RSA keys: 338874
+Num additional RSA keys: 4854
+That took 141.69570326805115 seconds
+###############################
+Total IPs: 13000000
+Algorithms:
+{'RSA', 'ECDSA'}
+Total successful handshakes: 9190229
+Total IPs with RSA keys: 8817785
+Total additional RSA keys: 143492
+17889366
+defaultdict(<class 'int'>, {'ECDSA': 372444})

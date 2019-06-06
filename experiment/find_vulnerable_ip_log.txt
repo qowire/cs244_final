@@ -1,0 +1,10 @@
+Found 5891 vulnerable keys
+Finding vulnerable IPs in d_ip
+Found 3392 vulnerable IPs in ./ip_keys/d_ip
+Finding vulnerable IPs in .DS_Store
+Finding vulnerable IPs in a_ip
+Found 3545 vulnerable IPs in ./ip_keys/a_ip
+Finding vulnerable IPs in b_ip
+Found 3623 vulnerable IPs in ./ip_keys/b_ip
+Finding vulnerable IPs in c_ip
+Found 3506 vulnerable IPs in ./ip_keys/c_ip
